@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Vuqar\\Desktop\\v\\Tasks\\ECommerce-V2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{61EB0C26-7856-FFE4-D9A9-746B9AE31137}|E-Commerce\\E-Commerce.csproj|c:\\users\\vuqar\\desktop\\v\\tasks\\ecommerce-v2\\e-commerce\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61EB0C26-7856-FFE4-D9A9-746B9AE31137}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{61EB0C26-7856-FFE4-D9A9-746B9AE31137}|E-Commerce\\E-Commerce.csproj|c:\\users\\vuqar\\desktop\\v\\tasks\\ecommerce-v2\\e-commerce\\interfaces\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61EB0C26-7856-FFE4-D9A9-746B9AE31137}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\interfaces\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61EB0C26-7856-FFE4-D9A9-746B9AE31137}|E-Commerce\\E-Commerce.csproj|c:\\users\\vuqar\\desktop\\v\\tasks\\ecommerce-v2\\e-commerce\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61EB0C26-7856-FFE4-D9A9-746B9AE31137}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{61EB0C26-7856-FFE4-D9A9-746B9AE31137}|E-Commerce\\E-Commerce.csproj|c:\\users\\vuqar\\desktop\\v\\tasks\\ecommerce-v2\\e-commerce\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,20 +62,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\Vuqar\\Desktop\\v\\Tasks\\ECommerce-V2\\E-Commerce\\Models\\Order.cs",
               "RelativeDocumentMoniker": "E-Commerce\\Models\\Order.cs",
               "ToolTip": "C:\\Users\\Vuqar\\Desktop\\v\\Tasks\\ECommerce-V2\\E-Commerce\\Models\\Order.cs",
               "RelativeToolTip": "E-Commerce\\Models\\Order.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAiwA4AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-01T13:35:52.77Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "INotificationService.cs",
               "DocumentMoniker": "C:\\Users\\Vuqar\\Desktop\\v\\Tasks\\ECommerce-V2\\E-Commerce\\Interfaces\\INotificationService.cs",
               "RelativeDocumentMoniker": "E-Commerce\\Interfaces\\INotificationService.cs",
@@ -83,7 +83,8 @@
               "RelativeToolTip": "E-Commerce\\Interfaces\\INotificationService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-01T13:35:14.675Z"
+              "WhenOpened": "2026-09-01T13:35:14.675Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
