@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vugarjs\\source\\repos\\ECommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D7D44A3-FF27-49E8-990A-DD8053A525F0}|E-Commerce\\E-Commerce.csproj|c:\\users\\vugarjs\\source\\repos\\ecommerce\\e-commerce\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D7D44A3-FF27-49E8-990A-DD8053A525F0}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D7D44A3-FF27-49E8-990A-DD8053A525F0}|E-Commerce\\E-Commerce.csproj|c:\\users\\vugarjs\\source\\repos\\ecommerce\\e-commerce\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D7D44A3-FF27-49E8-990A-DD8053A525F0}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D7D44A3-FF27-49E8-990A-DD8053A525F0}|E-Commerce\\E-Commerce.csproj|c:\\users\\vugarjs\\source\\repos\\ecommerce\\e-commerce\\models\\customerrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D7D44A3-FF27-49E8-990A-DD8053A525F0}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\models\\customerrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D7D44A3-FF27-49E8-990A-DD8053A525F0}|E-Commerce\\E-Commerce.csproj|c:\\users\\vugarjs\\source\\repos\\ecommerce\\e-commerce\\interfaces\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D7D44A3-FF27-49E8-990A-DD8053A525F0}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\interfaces\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D7D44A3-FF27-49E8-990A-DD8053A525F0}|E-Commerce\\E-Commerce.csproj|c:\\users\\vugarjs\\source\\repos\\ecommerce\\e-commerce\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D7D44A3-FF27-49E8-990A-DD8053A525F0}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D7D44A3-FF27-49E8-990A-DD8053A525F0}|E-Commerce\\E-Commerce.csproj|c:\\users\\vugarjs\\source\\repos\\ecommerce\\e-commerce\\interfaces\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D7D44A3-FF27-49E8-990A-DD8053A525F0}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\interfaces\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D7D44A3-FF27-49E8-990A-DD8053A525F0}|E-Commerce\\E-Commerce.csproj|c:\\users\\vugarjs\\source\\repos\\ecommerce\\e-commerce\\exceptions\\ordernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D7D44A3-FF27-49E8-990A-DD8053A525F0}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\exceptions\\ordernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D7D44A3-FF27-49E8-990A-DD8053A525F0}|E-Commerce\\E-Commerce.csproj|c:\\users\\vugarjs\\source\\repos\\ecommerce\\e-commerce\\exceptions\\stockunavailableexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D7D44A3-FF27-49E8-990A-DD8053A525F0}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\exceptions\\stockunavailableexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D7D44A3-FF27-49E8-990A-DD8053A525F0}|E-Commerce\\E-Commerce.csproj|c:\\users\\vugarjs\\source\\repos\\ecommerce\\e-commerce\\enums\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D7D44A3-FF27-49E8-990A-DD8053A525F0}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\enums\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D7D44A3-FF27-49E8-990A-DD8053A525F0}|E-Commerce\\E-Commerce.csproj|c:\\users\\vugarjs\\source\\repos\\ecommerce\\e-commerce\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D7D44A3-FF27-49E8-990A-DD8053A525F0}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D7D44A3-FF27-49E8-990A-DD8053A525F0}|E-Commerce\\E-Commerce.csproj|c:\\users\\vugarjs\\source\\repos\\ecommerce\\e-commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D7D44A3-FF27-49E8-990A-DD8053A525F0}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\vugarjs\\source\\repos\\ECommerce\\E-Commerce\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\vugarjs\\source\\repos\\ECommerce\\E-Commerce\\Models\\Order.cs",
+              "RelativeToolTip": "E-Commerce\\Models\\Order.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T13:35:52.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\vugarjs\\source\\repos\\ECommerce\\E-Commerce\\Interfaces\\INotificationService.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Interfaces\\INotificationService.cs",
+              "ToolTip": "C:\\Users\\vugarjs\\source\\repos\\ECommerce\\E-Commerce\\Interfaces\\INotificationService.cs",
+              "RelativeToolTip": "E-Commerce\\Interfaces\\INotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T13:35:14.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\vugarjs\\source\\repos\\ECommerce\\E-Commerce\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Interfaces\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\vugarjs\\source\\repos\\ECommerce\\E-Commerce\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "E-Commerce\\Interfaces\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T13:34:35.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\vugarjs\\source\\repos\\ECommerce\\E-Commerce\\Interfaces\\IEntity.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Interfaces\\IEntity.cs",
+              "ToolTip": "C:\\Users\\vugarjs\\source\\repos\\ECommerce\\E-Commerce\\Interfaces\\IEntity.cs",
+              "RelativeToolTip": "E-Commerce\\Interfaces\\IEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T13:34:03.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\vugarjs\\source\\repos\\ECommerce\\E-Commerce\\Exceptions\\OrderNotFoundException.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Exceptions\\OrderNotFoundException.cs",
+              "ToolTip": "C:\\Users\\vugarjs\\source\\repos\\ECommerce\\E-Commerce\\Exceptions\\OrderNotFoundException.cs",
+              "RelativeToolTip": "E-Commerce\\Exceptions\\OrderNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T13:32:22.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerRecord.cs",
+              "DocumentMoniker": "C:\\Users\\vugarjs\\source\\repos\\ECommerce\\E-Commerce\\Models\\CustomerRecord.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Models\\CustomerRecord.cs",
+              "ToolTip": "C:\\Users\\vugarjs\\source\\repos\\ECommerce\\E-Commerce\\Models\\CustomerRecord.cs",
+              "RelativeToolTip": "E-Commerce\\Models\\CustomerRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T13:24:01.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\vugarjs\\source\\repos\\ECommerce\\E-Commerce\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\vugarjs\\source\\repos\\ECommerce\\E-Commerce\\Models\\OrderItem.cs",
+              "RelativeToolTip": "E-Commerce\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T13:25:09.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StockUnavailableException.cs",
+              "DocumentMoniker": "C:\\Users\\vugarjs\\source\\repos\\ECommerce\\E-Commerce\\Exceptions\\StockUnavailableException.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Exceptions\\StockUnavailableException.cs",
+              "ToolTip": "C:\\Users\\vugarjs\\source\\repos\\ECommerce\\E-Commerce\\Exceptions\\StockUnavailableException.cs",
+              "RelativeToolTip": "E-Commerce\\Exceptions\\StockUnavailableException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T13:31:41.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "C:\\Users\\vugarjs\\source\\repos\\ECommerce\\E-Commerce\\Enums\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Enums\\ProductCategory.cs",
+              "ToolTip": "C:\\Users\\vugarjs\\source\\repos\\ECommerce\\E-Commerce\\Enums\\ProductCategory.cs",
+              "RelativeToolTip": "E-Commerce\\Enums\\ProductCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T13:20:27.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\vugarjs\\source\\repos\\ECommerce\\E-Commerce\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\vugarjs\\source\\repos\\ECommerce\\E-Commerce\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "E-Commerce\\Enums\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T13:19:30.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vugarjs\\source\\repos\\ECommerce\\E-Commerce\\Program.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Program.cs",
+              "ToolTip": "C:\\Users\\vugarjs\\source\\repos\\ECommerce\\E-Commerce\\Program.cs",
+              "RelativeToolTip": "E-Commerce\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T13:18:27.6Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
